@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{41372640-7040-4DEA-BC56-5D3B814ED4C8}</ProjectGuid>
+    <ProjectGuid>{CF319979-CB9F-48C9-8664-12CC91F9F8C1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HolaMundo</RootNamespace>
-    <AssemblyName>HolaMundo</AssemblyName>
+    <RootNamespace>Ejercicios</RootNamespace>
+    <AssemblyName>Ejercicios</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

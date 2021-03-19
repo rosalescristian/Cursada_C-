@@ -1,0 +1,7 @@
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Clase 1\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Clase 1\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Clase 1\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Clase 1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Clase 1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Clase 1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Clase 1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

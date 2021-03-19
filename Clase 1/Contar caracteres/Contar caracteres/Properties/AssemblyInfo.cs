@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HolaMundo")]
+[assembly: AssemblyTitle("Contar caracteres")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HolaMundo")]
+[assembly: AssemblyProduct("Contar caracteres")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("41372640-7040-4dea-bc56-5d3b814ed4c8")]
+[assembly: Guid("d4024ac4-d7e5-4626-9b10-b20e52b935c3")]
 
 // Version information for an assembly consists of the following four values:
 //
