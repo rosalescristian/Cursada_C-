@@ -1,0 +1,10 @@
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.pdb
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\bin\Debug\ClassLibrary1.dll
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\bin\Debug\ClassLibrary1.pdb
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csproj.CopyComplete
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.exe
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.pdb

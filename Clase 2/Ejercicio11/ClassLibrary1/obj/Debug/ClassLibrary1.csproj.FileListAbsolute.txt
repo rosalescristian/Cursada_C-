@@ -1,0 +1,5 @@
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio y Programacion 2\Clase 2\Ejercicio11\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
