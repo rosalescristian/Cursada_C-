@@ -1,0 +1,7 @@
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Cursada_C-\Ejercicios\Ejercicio 7 - 20210325\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Cursada_C-\Ejercicios\Ejercicio 7 - 20210325\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Cursada_C-\Ejercicios\Ejercicio 7 - 20210325\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Cursada_C-\Ejercicios\Ejercicio 7 - 20210325\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Cursada_C-\Ejercicios\Ejercicio 7 - 20210325\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Cursada_C-\Ejercicios\Ejercicio 7 - 20210325\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\UTN FRA\2021\1 Cuatrimestre\Laboratorio de Programacion 2\Cursada_C-\Ejercicios\Ejercicio 7 - 20210325\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
